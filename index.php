@@ -17,6 +17,10 @@
         <![endif]-->
 
         <h1>HELLO WORLD</h1>
+
+        <footer>
+    &copy; <?php echo date('Y'); ?> The spectacular me
+    </footer>
         
         <script src="" async defer></script>
     </body>
