@@ -18,9 +18,18 @@
 
         <h1>HELLO WORLD</h1>
 
+<<<<<<< Updated upstream
         <footer>
     &copy; <?php echo date('Y'); ?> The spectacular me
     </footer>
+=======
+
+        <H1> WHAT JUST HAPPEND</H1>
+
+
+
+        <h2>HELLO WHAT HAPPEND</h2>
+>>>>>>> Stashed changes
         
         <script src="" async defer></script>
     </body>
